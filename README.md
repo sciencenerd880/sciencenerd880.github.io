@@ -8,10 +8,10 @@ Nanyang Technological University,
 Bachelor Electrical Electronic Engineering 
 (Highest Distinction)
 
-###Work Experience
+### Work Experience
 Senior Equipment Engineer @ Micron Semiconductor
 - big impact project 1
 - big impact project 2
 
-###Projects
+### Projects
 A Librarian Chatbot powered by Large Langugage Model 
