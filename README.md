@@ -1,5 +1,4 @@
-# Masters Student / Data Engineering
-
+# Aspiring Data Scientist | Building Apps that brings meaningful impact
 ### Education
 Singapore Management Univeristy, 
 Masters with IT in Business (Artificial Intelligence Track)
