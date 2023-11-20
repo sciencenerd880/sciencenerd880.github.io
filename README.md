@@ -1,5 +1,5 @@
 # Aspiring Data Scientist | Building Apps that brings meaningful impact
-![.](/assets/circle_headshot.png)
+![.]<img src="/assets/circle_headshot.png" width="100" height="100">
 
 #### Technical Skills: Python, SQL, AWS, Tableau, Snowflake
 
